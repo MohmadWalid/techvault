@@ -7,8 +7,8 @@ This list combines videos from the following playlists:
 
 | # | Title | Arabic | English |
 | --- | --- | --- | --- |
-| 1 | Relational Databases & Relational Algebra | [Arabic](https://www.youtube.com/watch?v=UuCDByipiCo) | [English](https://youtu.be/5-0_tHSnbUs) |
-| 2 | Relational Algebra - Deep Dive | [Arabic](https://www.youtube.com/watch?v=OuFS0tcQXh8) | Included in #1 |
+| 1 | ==.==<>Relational Databases & Relational Algebra | [Arabic](https://www.youtube.com/watch?v=UuCDByipiCo) | [English](https://youtu.be/5-0_tHSnbUs) |
+| 2 | ==.==<>Relational Algebra - Deep Dive | [Arabic](https://www.youtube.com/watch?v=OuFS0tcQXh8) | Included in #1 | ==.==<>
 | 3 | Database Storage 1 (Files & Pages) | [Arabic](https://youtu.be/-HtHhBQbMB4) | [English](https://youtu.be/sE-PWl_fd40) |
 | 4 | Database Storage 2 (Page layouts and tuples) | [Arabic](https://youtu.be/8-LJyyAjOhE) | [English](https://youtu.be/lpkEwChGFH8) |
 | 5 | Database Indexes 1 (B and B+ trees) | [Arabic](https://youtu.be/1ZhBULsbZGw) | [English](https://youtu.be/1fETPYKyb70) |

@@ -15,10 +15,10 @@ This list combines videos from the following playlists:
 | 6 | Database Indexes 2 (Hash, Composite) | [Arabic](https://youtu.be/ddWoqXw6Qic) | [English](https://youtu.be/dH5SwQ5rndQ) |
 | 7 | Database Indexes 3 (Union, Intersection, Clustered, Covering) | [Arabic](https://youtu.be/KTEViriyc-Q) | [English](https://www.youtube.com/watch?v=J8prxz2KxeA) |
 | 8 | Database Indexes 4 (Q & A) | [Arabic](https://youtu.be/wY_SxRMLTvA) | [English](https://www.youtube.com/watch?v=ozXWjqNsNYU) |
-| 9 | Database Design | [Arabic](https://youtu.be/gZ5iYMkrcfQ) | [English](https://youtu.be/5CFphPMgScU) |
-| 10 | Relationships in ER Diagrams | [Arabic](https://youtu.be/hp1gX4kh3lw) | [English](https://youtu.be/LlbshEKviFI) |
-| 11 | Database Keys | [Arabic](https://youtu.be/kgpiD3Z_swg) | [English](https://youtu.be/Nw04aF2VUDk) |
-| 12 | ER to Relational Mapping | [Arabic](https://youtu.be/3E_FTJ1KFyg) | [English](https://youtu.be/va8XjW-PD48) |
+| 9 | **Database Design | [Arabic](https://youtu.be/gZ5iYMkrcfQ) | [English](https://youtu.be/5CFphPMgScU) |
+| 10 | **Relationships in ER Diagrams | [Arabic](https://youtu.be/hp1gX4kh3lw) | [English](https://youtu.be/LlbshEKviFI) |
+| 11 | **Database Keys | [Arabic](https://youtu.be/kgpiD3Z_swg) | [English](https://youtu.be/Nw04aF2VUDk) |
+| 12 | **ER to Relational Mapping | [Arabic](https://youtu.be/3E_FTJ1KFyg) | [English](https://youtu.be/va8XjW-PD48) |
 | 13 | Database Normalization | [Arabic](https://youtu.be/1HEHa_EJa0k) | [English](https://youtu.be/lsojlIT1ah0) |
 | 14 | SQL Query Life Cycle | [Arabic](https://youtu.be/SEKF4u6Ovyw) | [English](https://youtu.be/Wr7cd6p8hvQ) |
 | 15 | Join Algorithms | [Arabic](https://youtu.be/oVeo3i5ExaA) | [English](https://youtu.be/Ykvl-2LZpGY) |

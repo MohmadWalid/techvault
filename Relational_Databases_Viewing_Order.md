@@ -21,7 +21,7 @@ This list combines videos from the following playlists:
 | 12 | **ER to Relational Mapping | [Arabic](https://youtu.be/3E_FTJ1KFyg) | [English](https://youtu.be/va8XjW-PD48) |
 | 13 | ✅ Database Normalization | [Arabic](https://youtu.be/1HEHa_EJa0k) | [English](https://youtu.be/lsojlIT1ah0) |
 | 14 | SQL Query Life Cycle | [Arabic](https://youtu.be/SEKF4u6Ovyw) | [English](https://youtu.be/Wr7cd6p8hvQ) |
-| 15 | Join Algorithms | [Arabic](https://youtu.be/oVeo3i5ExaA) | [English](https://youtu.be/Ykvl-2LZpGY) |
+| 15 | ✅ Join Algorithms | [Arabic](https://youtu.be/oVeo3i5ExaA) | [English](https://youtu.be/Ykvl-2LZpGY) |
 | 16 | SQL Join Types (Inner, Outer, Semi-join, Anti-join) | [Arabic](https://youtu.be/4RmzfVUVxYI) | [English](https://youtu.be/_UJzUo0Kh7M) |
 | 17 | Common Table Expressions (CTEs) vs. Subqueries | [Arabic](https://youtu.be/bdKIwDv9Owc) | [English](https://youtu.be/-iD0LIY5_rg?si=RGv0PL6UOkZ14fwB) |
 | 18 | Aggregation Algorithms | [Arabic](https://youtu.be/dHOYDnqJ9HY) | [English](https://youtu.be/yKmtT5oa2w8) |
